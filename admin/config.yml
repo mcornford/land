@@ -1,0 +1,78 @@
+# config.yml
+
+backend:
+  name: git-gateway
+  branch: main
+media_folder: 'assets/uploads'
+collections:
+  - name: 'pages'
+    label: 'Pages'
+    folder: 'pages/'
+    identifier_field: permalink
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: "layout", label: "Layout", widget: "hidden", default: "app" }
+      - { name: "title", label: "Title", widget: "string" }
+      - { name: "permalink", label: "Permanent link for this page", widget: "string" }
+      - { name: "icon", label: "Icon", widget:   "image" }
+      - { name: "color", label: "Color", widget: "color" }
+      - { name: "appstore", label: "App Store Link", widget: "string" }
+      - name: "banner"
+        label: "Banner"
+        widget: "object"
+        collapsed: true
+        fields:
+          - { name: "title", label: "Title", widget: "markdown" }
+          - { name: "subtitle", label: "Subtitle", widget: "markdown" }
+          - { name: "image", label: "Image", widget: "image" }
+      - name: "features"
+        label: "Features"
+        widget: "list"
+        collapsed: true
+        minimize_collapsed: true
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - { name: "description", label: "Description", widget: "string" }
+          - { name: "image", label: "Image", widget: "image" }
+      - name: "cta"
+        label: "Call To Action"
+        widget: "object"
+        collapsed: true
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - { name: "subtitle", label: "Subtitle", widget: "string" }
+      - name: "reviews"
+        label: "Reviews"
+        widget: "object"
+        collapsed: true
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - name: "items"
+            label: "Items"
+            widget: "list"
+            fields:
+              - { name: "name", label: "Name", widget: "string" }
+              - { name: "text", label: "Text", widget: "markdown" }
+              - { name: "stars", label: "Stars", widget: "string" }
+      - name: "faqs"
+        label: "FAQs"
+        widget: "list"
+        collapsed: true
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - { name: "text", label: "text", widget: "markdown" }
+      - name: "footer"
+        label: "Footer"
+        widget: "list"
+        collapsed: true
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - name: "items"
+            label: "Items"
+            widget: "list"
+            fields:
+              - { name: "name", label: "Name", widget: "string" }
+              - { name: "link", label: "Link", widget: "string" }
+local_backend: True
