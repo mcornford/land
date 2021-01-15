@@ -1,0 +1,16 @@
+<section class="container mx-auto text-center py-6 mb-12">
+  <h1 class="w-full my-2 text-5xl font-bold leading-tight text-center text-white">
+    {{ page.cta.title }}
+  </h1>
+  <div class="w-full mb-4">
+    <div class="h-1 mx-auto bg-white w-1/6 opacity-25 my-0 py-0 rounded-t"></div>
+  </div>
+  <h3 class="my-4 w-3/5 mx-auto text-3xl leading-tight">
+    {{ page.cta.subtitle }}
+  </h3>
+  {% if page.appstore %}
+  <a href="{{ page.appstore }}">
+    <img class="h-20 fill-current inline m-16" src="../assets/uploads/appstore.png" />
+  </a>
+  {% endif %}
+</section>
