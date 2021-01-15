@@ -1,5 +1,6 @@
 ---
 title: Dripl
+permalink: /
 color: "#f5aa22"
 icon: /assets/uploads/dripl.png
 banner:
@@ -40,8 +41,28 @@ texts:
       business. [Please reach out ](mailto:hello@dripl.co.uk)and we will be
       happy to discuss if we can help you and how.
     image: /assets/uploads/undraw_mind_map_re_nlb6.svg
+products:
+  - title: Motorcycle Theory Untangled
+    description: >+
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ipsum
+      eu nunc commodo posuere et sit amet ligula.
+
+    link: /motorcycle
+    icon: /assets/uploads/motorcycle-icon.png
+  - title: Car Theory Untangled
+    description: >+
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ipsum
+      eu nunc commodo posuere et sit amet ligula.
+
+    link: /car
+    icon: /assets/uploads/car-icon.png
+  - title: Life in the UK Untangled
+    description: >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ipsum
+      eu nunc commodo posuere et sit amet ligula.
+    link: /lituk
+    icon: /assets/uploads/lituk-icon.png
 layout: default
-permalink: /
 cta:
   title: We are building in public
   subtitle: Every week, we write down an essay that details small victories,
