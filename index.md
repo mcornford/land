@@ -2,12 +2,12 @@
 title: Dripl
 permalink: /
 color: "#f5aa22"
-icon: /assets/uploads/dripl.png
+icon: assets/uploads/dripl.png
 banner:
   title: "**UN-STARTUP & CONSULTANCY**"
   subtitle: BY [<u>AINY</u>](https://twitter.com/ainyxedi) &
     [<u>ALI</u>](https://twitter.com/alixedi)
-  image: /assets/uploads/hot-air-balloon-3.svg
+  image: assets/uploads/hot-air-balloon-3.svg
 texts:
   - title: THE STORY, SO FAR
     description: >-
@@ -20,7 +20,7 @@ texts:
 
 
       **Half of Dripl is a consulting agency.** We advise clients on adopting Lean Startup principles in the enterprise. This helps us fund the un-startup, but we are also very good at this.
-    image: /assets/uploads/pic02.jpg
+    image: assets/uploads/pic02.jpg
   - title: UN-STARTUP
     description: >-
       About **175,000** people take the [Life in the UK
@@ -34,13 +34,13 @@ texts:
 
 
       We are dogfooding the engine to build an app for the Life in the UK test. This will be followed by more test-preparation apps until we feel we have something reproducible. At this point, we might launch the engine as a **no-code solution for building test-preparation apps.**
-    image: /assets/uploads/undraw_creative_draft_vb5x-2.svg
+    image: assets/uploads/undraw_creative_draft_vb5x-2.svg
   - title: CONSULTING
     description: If you like the planning, strategy and execution for our
       un-startup, **we can help you do the same** for your product or
       business. [Please reach out ](mailto:hello@dripl.co.uk)and we will be
       happy to discuss if we can help you and how.
-    image: /assets/uploads/undraw_mind_map_re_nlb6.svg
+    image: assets/uploads/undraw_mind_map_re_nlb6.svg
 products:
   - title: Motorcycle Theory Untangled
     description: >+
@@ -48,20 +48,20 @@ products:
       eu nunc commodo posuere et sit amet ligula.
 
     link: /motorcycle
-    icon: /assets/uploads/motorcycle-icon.png
+    icon: assets/uploads/motorcycle-icon.png
   - title: Car Theory Untangled
     description: >+
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ipsum
       eu nunc commodo posuere et sit amet ligula.
 
     link: /car
-    icon: /assets/uploads/car-icon.png
+    icon: assets/uploads/car-icon.png
   - title: Life in the UK Untangled
     description: >
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ipsum
       eu nunc commodo posuere et sit amet ligula.
     link: /lituk
-    icon: /assets/uploads/lituk-icon.png
+    icon: assets/uploads/lituk-icon.png
 layout: default
 cta:
   title: We are building in public

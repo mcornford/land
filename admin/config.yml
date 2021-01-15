@@ -9,6 +9,7 @@ media_folder: 'assets/uploads'
 collections:
   - name: 'pages'
     label: 'Pages'
+    public_folder: 'assets/uploads/'
     editor:
       preview: false
     files:
