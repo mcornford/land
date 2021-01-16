@@ -10,6 +10,12 @@ banner:
   subtitle: Install the App, close the rings & pass the test.
   image: ../assets/uploads/motorcycle-complete.png
 features:
+  - title: Instant Search - No more “What was that Q about wheels..”
+    description: Or maybe you can convince your partner to watch Hazard Perception
+      clips together? They are included in the app. No extra charges. With out
+      smart HazardGuide, you will learn exactly how you will be scored on these
+      videos.
+    image: ../assets/uploads/search.png
   - title: 10 Case Studies covering real-life situations
     description: We have included 10 case studies with about 20 questions each so
       that you are ready to take on these type of questions in the real test.
@@ -20,12 +26,6 @@ features:
       smart HazardGuide, you will learn exactly how you will be scored on these
       videos.
     image: ../assets/uploads/hazard.png
-  - title: Instant Search - No more “What was that Q about wheels..”
-    description: Or maybe you can convince your partner to watch Hazard Perception
-      clips together? They are included in the app. No extra charges. With out
-      smart HazardGuide, you will learn exactly how you will be scored on these
-      videos.
-    image: ../assets/uploads/search.png
   - title: Quickly Revise all the Qs you found tricky before the real test
     description: Or maybe you can convince your partner to watch Hazard Perception
       clips together? They are included in the app. No extra charges. With out
