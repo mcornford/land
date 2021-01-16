@@ -3,7 +3,7 @@ layout: app
 title: Car Theory Untangled
 permalink: /car/
 icon: /assets/uploads/car-icon.png
-color: "#37fdce"
+color: "#45a490"
 appstore: https://apps.apple.com/gb/app/motorcycle-theory-untangled/id1537956813
 banner:
   title: <u>Everything</u> you need to pass the **Driving theory test** in *2021*
