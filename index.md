@@ -62,11 +62,6 @@ products:
       eu nunc commodo posuere et sit amet ligula.
     link: /lituk
     icon: assets/uploads/lituk-icon.png
-  - title: ADI Theory Untangled
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at
-      ipsum eu nunc commodo posuere et sit amet ligula.
-    link: /adi
-    icon: assets/uploads/adi-icon.png
 layout: default
 cta:
   title: We are building in public
