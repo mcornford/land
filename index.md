@@ -77,14 +77,6 @@ cta:
   action: How to Un-startup
   link: https://www.notion.so/dripluk/How-to-Unstartup-4f4ea12d2c8b4e97be3fce5667a08d17
 footer:
-  - title: Links
-    items:
-      - name: FAQ
-        link: /#faq
-      - name: Help
-        link: /#help
-      - name: Support
-        link: /#support
   - title: Social
     items:
       - name: "@ainyxedi"
