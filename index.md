@@ -9,7 +9,7 @@ banner:
     [<u>ALI</u>](https://twitter.com/alixedi)
   image: assets/uploads/hot-air-balloon-3.svg
 texts:
-  - title: THE STORY, SO FAR
+  - title: The story, so far
     description: >-
       We created Dripl because we wanted to find out if we could build a
       profitable internet business together. Between us, we spent 20 years at
@@ -21,7 +21,7 @@ texts:
 
       **Half of Dripl is a consultancy.** We advise clients on adopting Lean Startup principles in the enterprise. This helps us fund the un-startup, but we are also very good at this.
     image: assets/uploads/pic02.jpg
-  - title: UN-STARTUP
+  - title: Un-startup
     description: >-
       About **175,000** people take the [Life in the UK
       test](https://en.wikipedia.org/wiki/Life_in_the_United_Kingdom_test) every
@@ -35,7 +35,7 @@ texts:
 
       We are dogfooding the engine to build an app for the Life in the UK test. This will be followed by more test-preparation apps until we feel we have something reproducible. At this point, we might launch the engine as a **no-code solution for building test-preparation apps.**
     image: assets/uploads/undraw_creative_draft_vb5x-2.svg
-  - title: CONSULTANCY
+  - title: Consultancy
     description: >-
       We are big fans of the [Lean Startup
       methodology](http://theleanstartup.com/principles) and every product at
