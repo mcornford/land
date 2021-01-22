@@ -16,10 +16,10 @@ texts:
       startups. This means:
 
 
-      **Half of Dripl is an un-startup.** We are building digital products but we are not seeking hockey stick growth, looking for venture capital or working 100-hour weeks.
+      **Half of Dripl is an un-startup.** We are building digital products but we are not seeking hockey stick growth, looking for venture capital, or working 100-hour weeks.
 
 
-      **Half of Dripl is a consulting agency.** We advise clients on adopting Lean Startup principles in the enterprise. This helps us fund the un-startup, but we are also very good at this.
+      **Half of Dripl is a consultancy.** We advise clients on adopting Lean Startup principles in the enterprise. This helps us fund the un-startup, but we are also very good at this.
     image: assets/uploads/pic02.jpg
   - title: UN-STARTUP
     description: >-
@@ -46,31 +46,35 @@ texts:
     image: assets/uploads/undraw_mind_map_re_nlb6.svg
 products:
   - title: Motorcycle Theory Untangled
-    description: >+
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ipsum
-      eu nunc commodo posuere et sit amet ligula.
-
+    description: "\n"
     link: /motorcycle
     icon: assets/uploads/motorcycle-icon.png
   - title: Car Theory Untangled
-    description: >+
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ipsum
-      eu nunc commodo posuere et sit amet ligula.
-
+    description: "\n"
     link: /car
     icon: assets/uploads/car-icon.png
   - title: Life in the UK Untangled
-    description: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ipsum
-      eu nunc commodo posuere et sit amet ligula.
+    description: "\n"
     link: /lituk
     icon: assets/uploads/lituk-icon.png
+  - title: ADI Theory Untangled
+    link: /adi
+    icon: assets/uploads/adi-icon.png
+    description: "\n"
+  - title: CPC Part-1 Untangled
+    link: /cpc-1
+    icon: assets/uploads/lorry-icon.png
+    description: "\n"
+  - title: CPC Part-2 Untangled
+    link: /cpc-2
+    icon: assets/uploads/lorry2-icon.png
+    description: "\n"
 layout: default
 cta:
   title: We are building in public
   subtitle: Every week, we write down an essay that details small victories,
     embarrassing failures and everything in between.
-  action: How to Un-startup
+  action: Read our blog - How to Un-startup
   link: https://www.notion.so/dripluk/How-to-Unstartup-4f4ea12d2c8b4e97be3fce5667a08d17
 footer:
   - title: Links
@@ -83,18 +87,16 @@ footer:
         link: /#support
   - title: Social
     items:
-      - name: Facebook
-        link: /#facebook
-      - name: LinkedIn
-        link: /#linkedin
-      - name: Twitter
-        link: /#twitter
+      - name: "@ainyxedi"
+        link: https://www.notion.so/dripluk/How-to-Unstartup-4f4ea12d2c8b4e97be3fce5667a08d17#f7cc15e014ad4157a7f44afc5f9f2158
+      - name: "@alixedi"
+        link: https://twitter.com/alixedi
   - title: Company
     items:
       - name: Blog
-        link: /#blog
+        link: https://www.notion.so/dripluk/How-to-Unstartup-4f4ea12d2c8b4e97be3fce5667a08d17
       - name: About
-        link: /#about
+        link: "#"
       - name: Contact
-        link: /#contact
+        link: mailto:hello@dripl.co.uk
 ---
