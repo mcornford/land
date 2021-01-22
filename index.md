@@ -30,16 +30,19 @@ texts:
       like any of them so we decided to build an app she would love.
 
 
-      During research, we found that **5 out of the top 20** best-selling apps on the App Store were for test-preparation so we took a step back & built an engine that transforms a spreadsheet of multiple-choice questions into a beautiful, singing-and-dancing test-preparation app for the iPhone.
+      During our research, we found that **5 out of the top 20** best-selling apps on the App Store were for test-preparation so we took a step back & built an engine that transforms a spreadsheet of multiple-choice questions into a beautiful, singing-and-dancing test-preparation app for the iPhone.
 
 
       We are dogfooding the engine to build an app for the Life in the UK test. This will be followed by more test-preparation apps until we feel we have something reproducible. At this point, we might launch the engine as a **no-code solution for building test-preparation apps.**
     image: assets/uploads/undraw_creative_draft_vb5x-2.svg
-  - title: CONSULTING
-    description: If you like the planning, strategy and execution for our
-      un-startup, **we can help you do the same** for your product or
-      business. [Please reach out ](mailto:hello@dripl.co.uk)and we will be
-      happy to discuss if we can help you and how.
+  - title: CONSULTANCY
+    description: >-
+      We are big fans of the [Lean Startup
+      methodology](http://theleanstartup.com/principles) and every product at
+      Dripl is built on the same principles. 
+
+
+      If you like the planning, strategy, and execution for the un-startup, **we can help you do the same** for your product or business. [Please reach out  ](mailto:hello@dripl.co.uk) and we will be happy to discuss if we can help you and how.
     image: assets/uploads/undraw_mind_map_re_nlb6.svg
 products:
   - title: Motorcycle Theory Untangled
