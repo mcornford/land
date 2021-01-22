@@ -74,7 +74,7 @@ cta:
   title: We are building in public
   subtitle: Every week, we write down an essay that details small victories,
     embarrassing failures and everything in between.
-  action: Read our blog - How to Un-startup
+  action: How to Un-startup
   link: https://www.notion.so/dripluk/How-to-Unstartup-4f4ea12d2c8b4e97be3fce5667a08d17
 footer:
   - title: Links
