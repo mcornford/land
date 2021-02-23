@@ -2,7 +2,7 @@
 
 backend:
   name: github
-  repo: mcornford/land.github.io
+  repo: mcornford/land
   branch: main
   site_domain: xenodochial-jackson-beee80.netlify.com
 media_folder: 'assets/uploads'
