@@ -1,9 +1,9 @@
 # land
 
-I took the landing page template from Tailwind and hooked it up to Github pages and Netlify CMS. [Here](https://www.notion.so/dripluk/16-1-Land-Ahoy-d8a86d70ba79454f8f7c48c1586a5422) is the blog post with videos etc.
+I forked Ali's landing page as suggested in [his dripl newsletter](https://www.notion.so/dripluk/16-1-Land-Ahoy-d8a86d70ba79454f8f7c48c1586a5422) on landing pages.
 
-I am going to write docs on setting this up soon so watch this space but if you want to have a go right away:
+I then followed [these instructions to set up Netlify CMS](https://cnly.github.io/2018/04/14/just-3-steps-adding-netlify-cms-to-existing-github-pages-site-within-10-minutes.html).
 
-1) Fork this repository.
+In the step "Creating an GitHub OAuth App" I used https://www.ambr.digital/app/times-tables-app as the homepage URL.
 
-2) Follow [this blog](https://cnly.github.io/2018/04/14/just-3-steps-adding-netlify-cms-to-existing-github-pages-site-within-10-minutes.html) for instruction on how to set up Netlify CMS.
+In the step "“Installing” the CMS" I assumed the "root director" meant this repo, so created a folder called "admin".
