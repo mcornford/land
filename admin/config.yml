@@ -2,9 +2,9 @@
 
 backend:
   name: github
-  repo: alixedi/land
+  repo: mcornford/land
   branch: main
-  site_domain: quizzical-davinci-d19cc3.netlify.app
+  site_domain: xenodochial-jackson-beee80.netlify.com
 media_folder: 'assets/uploads'
 collections:
   - name: 'pages'
