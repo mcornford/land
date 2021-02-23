@@ -4,7 +4,7 @@ backend:
   name: github
   repo: mcornford/land
   branch: main
-  site_domain: xenodochial-jackson-beee80.netlify.com
+  site_domain: xenodochial-jackson-beee80.netlify.app
 media_folder: 'assets/uploads'
 collections:
   - name: 'pages'
