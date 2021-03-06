@@ -1,13 +1,13 @@
 ---
 layout: app
-title: Car Theory Untangled
+title: Times Tables Tamed
 permalink: /car/
-icon: /assets/uploads/car-icon.png
-color: "#45a490"
+icon: https://openmoji.org/data/color/svg/1F435.svg
+color: "#52a445"
 appstore: https://apps.apple.com/gb/app/motorcycle-theory-untangled/id1537956813
 banner:
-  title: <u>Everything</u> you need to pass the **Driving theory test** in *2021*
-  subtitle: Install the App, close the rings & pass the test.
+  title: <u>Everything</u> you need to learn your times tables in *2021*
+  subtitle: Install the App, close the rings & pass any test.
   image: ../assets/uploads/motorcycle-complete.png
 features:
   - title: Instant Search - No more “What was that Q about wheels..”
